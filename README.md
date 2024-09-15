@@ -116,7 +116,7 @@ To use the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-to-json-converter.git
+   git clone https://github.com/Neufal777/HackTheNorth-Financial-report.git
    ```
 
 2. Install the required dependencies:
@@ -127,11 +127,14 @@ To use the project locally, follow these steps:
 3. Set your OpenAI API Key and environment variables:
    ```bash
    export OPENAI_API_KEY="your-api-key"
+   export OPENAI_API_TYPE="api-type"
+   export OPENAI_API_BASE="api-base"
+   export OPENAI_API_VERSION="api-version"
    ```
 
 4. Run the project with an example PDF file:
    ```bash
-   python main.py --pdf_path="path/to/your/pdf/file.pdf"
+   python main.py (remember to change the pdf path in the main file)
    ```
 
 ## Usage
