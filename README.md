@@ -142,13 +142,6 @@ The tool reads the specified PDF file, processes it, and outputs the analysis in
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or support, feel free to contact me via [email@example.com](mailto:email@example.com).
 
 ---
 
